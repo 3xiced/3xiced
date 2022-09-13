@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @3xiced
-- 👀 I’m interested in women
-- 🌱 I’m currently learning visual c++
-- 💞️ I’m looking to collaborate on ??
-- 📫 How to reach me ... ...
+- 👀 I’m interested in programming and self-development
+- 🌱 I’m currently learning Go, C# and other cool things
 
 <!---
 3xiced/3xiced is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
